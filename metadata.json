@@ -1,0 +1,7 @@
+{
+  "name": "NexusAI: Crisis & Incident Response System",
+  "description": "A production-ready AI-augmented mission control platform for real-time incident tracking, automated triage using Gemini, and collaborative resource management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
